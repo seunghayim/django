@@ -1,0 +1,10 @@
+costory/.env
+.DB_Store
+
+__pycahe__/
+*.py[cod]
+*$py.class
+
+*.so
+
+.Python
